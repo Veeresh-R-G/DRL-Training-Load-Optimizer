@@ -175,7 +175,7 @@ PPO's conservative policy updates (clip_range=0.1) prevent catastrophic forgetti
 
 ## 🗺️ Future Work
 
-**Phase 2 — Offline RL (Notebook 5, planned)**
+**Phase 2 — Offline RL**
 
 The natural next step is eliminating the simulator entirely and training from real athlete trajectories using offline RL:
 - **CQL** (Conservative Q-Learning) — safe offline policy learning
